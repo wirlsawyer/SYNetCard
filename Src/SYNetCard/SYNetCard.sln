@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SYNetCard", "SYNetCard\SYNetCard.vcproj", "{BD4ACBAD-D66B-486E-A43A-4A3764CE22AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD4ACBAD-D66B-486E-A43A-4A3764CE22AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BD4ACBAD-D66B-486E-A43A-4A3764CE22AA}.Debug|Win32.Build.0 = Debug|Win32
+		{BD4ACBAD-D66B-486E-A43A-4A3764CE22AA}.Release|Win32.ActiveCfg = Release|Win32
+		{BD4ACBAD-D66B-486E-A43A-4A3764CE22AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

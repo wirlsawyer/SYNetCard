@@ -1,0 +1,6 @@
+LIBRARY	"SYNetCard"
+
+EXPORTS
+		TestAdd						@1
+		Scan						@2
+		EnableOrDisableWithGUID		@3
